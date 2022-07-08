@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<img alt="MAP_i94 " src="image/topic_modeling.PNG" width="500" height="250">
+<img alt="MAP_i94 " src="image/topic_modeling.PNG" width="600" height="250">
 </p>
 
 
